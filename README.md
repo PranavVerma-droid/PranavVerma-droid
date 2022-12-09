@@ -1,4 +1,13 @@
-# PranavVerma-droid
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+
+
+/*# PranavVerma-droid
  1. HTML
  2. JavaScript
  3. Python
@@ -15,5 +24,5 @@
  2. SQl Lite
  3. PHP
  4. Lua
- 5. Kotlin
+ 5. Kotlin*/
  
