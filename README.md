@@ -6,6 +6,9 @@
  5. C#
  6. C++
  7. Java
+ 8. x86 Assembly
+ 9. C
+ 10. Java
  
  To Learn:
  1. SQL
