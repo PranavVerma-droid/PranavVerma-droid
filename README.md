@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=PranavVerma-droid" alt="Typing SVG" /></a>
 
-<a href=#><img src="contributions.svg"></a>
+<center><a href=#><img src="contributions.svg"></a></center>
 
 <p align="center"> 
   Visitor count<br>
