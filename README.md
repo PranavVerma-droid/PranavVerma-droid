@@ -1,3 +1,5 @@
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PranavVerma-droid" alt="Typing SVG" /></a></center>
+
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
@@ -7,7 +9,9 @@
 
 
 
-/*# PranavVerma-droid
+
+
+# PranavVerma-droid
  1. HTML
  2. JavaScript
  3. Python
@@ -24,5 +28,5 @@
  2. SQl Lite
  3. PHP
  4. Lua
- 5. Kotlin*/
+ 5. Kotlin
  
