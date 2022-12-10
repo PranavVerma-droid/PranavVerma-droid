@@ -2,7 +2,7 @@
 
 
 <p align = "center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=PranavVerma-droid+Github;Arduino+Enthusiast&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=PranavVerma-droid+Github;Arduino+Enthusiast;Web+Developer&center=true&width=500&height=50"></a>
 </p>
 <p align="center">I'm a Arduino Enthusiast and a OS Developer. I love to code!</p>
 
