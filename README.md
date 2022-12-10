@@ -4,7 +4,7 @@
 <p align = "center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=https://github.com/PranavVerma-droid;Arduino+Enthusiast;Web+Developer&center=true&width=500&height=50"></a>
 </p>
-<p align="center">I'm a Arduino Enthusiast and a OS Developer. I love to code!</p>
+<p align="center">I'm Pranav Verma(Also known as ItzNinja & Infinityx), a Arduino Enthusiast and a OS Developer. I love to code in my free time!<br>https://website.infinityx.info</p>
 
 ## 🛠 My skills include 
   <p align ="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
