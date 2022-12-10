@@ -15,14 +15,14 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   
   ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonee-Jain&theme=black-ice" alt="Salonee-Jain"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavVerma-droid&theme=black-ice" alt="PranavVerma-droid"  /></p>
 <p align="center"> 
  
 </p>
   
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
   
-![](https://github.com/Salonee-Jain/Salonee-Jain/blob/main/imgs/bottom_header.svg)
+
 </p>
 
 <details>
