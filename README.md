@@ -82,4 +82,6 @@
  6. Bootstrap
  7. React
  8. R
+ 9. Redux
+ 10. MongoDB
  
