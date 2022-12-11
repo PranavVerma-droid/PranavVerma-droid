@@ -80,4 +80,6 @@
  4. Lua
  5. Kotlin
  6. Bootstrap
+ 7. React
+ 8. R
  
