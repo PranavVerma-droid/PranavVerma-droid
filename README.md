@@ -1,87 +1,113 @@
-<h1 align=center>Hello, I'm Pranav! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+## Hi there 👋
 
+<img align='right' src="https://github.com/PranavVerma-droid/PranavVerma-droid/blob/main/DP.jpg" width="200">
 
-<p align = "center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=https://github.com/PranavVerma-droid;Arduino+Enthusiast;Web+Developer;Full+Stack+Developer&center=true&width=500&height=50"></a>
-</p>
-<p align="center">I'm Pranav Verma (Also known as ItzNinja & Infinityx), a Arduino Enthusiast and a OS Developer. I love to code in my free time!<br>https://website.infinityx.info</p>
+```javascript
+const SaloniShivdasani = {
+    pronouns: "She/Her",
+    askMeAbout: ["Full Stack Web Development", "Cloud Computing", "Cyber Security"],
+    technologies: {
+        languages: ["Java", "JavaScript", "SQL", "Python", "C++", "BASH", "R"],
+        webDev: {
+            frontEnd: ["React", "React Native", "Electron"],
+            backEnd: ["Node.js", "Express", "Flask"],
+            databases: ["MongoDB", "MySql"],
+        },
+        cyberSec: ["Forensics", "Intrusion Detection", "Security Operations", "Network and Application Penetration Testing"],
+        cloud: ["GCP", "AWS", "Splunk"],
+        misc: ["Firebase", "git","Jira","Confluence"]
+    },
+   currentOrganizations: {
+        president: "Developer Students Club, UTD",
+        educationOfficer: "Association of Computer Machinery, UTD",
+        historian: "Queer and Trans People of Color, UTD",
+   },
+   pastOrganizations: {
+        eventPlanner: "Women Mentoring Women in Engineering, UTD",
+        cloudTechnicalLead: "Developer Students Club, UTD",
+   },
+   hackathons: {
+        attended: 28,
+        won: 14,
+        mentoredJudged: 3
+   },
+   awards: {
+        Women_in_CyberSecurity_2021: "BIPOC Fellowship Award",
+        National_Cyber_League_Spring_2021: "Gold Bracket Competitor - Top 15% nationally",
+        National_Cyber_League_Fall_2020: "Gold Bracket Competitor - Top 15% nationally",
+        WiCyS_Google_2020: "SANS Security Training Scholarship",
+        SANSInstitute_2019: "Cyber Fast-Track Game Quarter-Finalist",
+   },
+};
+```
 
-## 🛠 My skills include 
-  <p align ="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  
-  ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavVerma-droid&theme=black-ice" alt="PranavVerma-droid"  /></p>
-<p align="center"> 
- 
-</p>
-  
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-  
-
-</p>
-
+<!--START_SECTION:table-->
 <details>
 
+<summary>Learn More About Me 😄 </summary>
 
+I am a senior at The University of Texas at Dallas, and I am currently majoring in Software Engineering with a concentration in Information Assurance. I am interested and have experience in full stack development, cloud computing, and cybersecurity. I hope to find opportunities where I can gain exposure to algorithm and project design. My ultimate aim is to develop futuristic products for users because I am inspired by the impact of computing on society.
 
+I have experience in full stack web development through my participation and awards in hackathons where I have learnt and used React, Node.js, Express, MongoDB, Flask, NLTK, and React Native along with GIT, GCP, and Firebase. Last semester, I was also responsible for backend development for a project at a local NGO where I created a REST API using Node.js, Express, MongoDB and SQL and hosted it on servers using GCP. 
 
+From my coursework and local competitions, I have skills in algorithms and data structures in Java, database management using SQL and machine learning using Python and R. I have also been a quarter-finalist in a national cybersecurity completion hosted by the SANS institute.
 
+I am also actively involved in campus organization where I am the cloud technical lead for Developer Student Club, Mentor and Education Officer for Association of Computing Machinery, event planner for Women Mentoring Women in Engineering and IT Committee member for IEEE.
 
+</details>
 
+<!--END_SECTION:table-->
 
+### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#107317](https://github.com/flutter/flutter/issues/107317) in [flutter/flutter](https://github.com/flutter/flutter)
+2. ❗️ Opened issue [#9057](https://github.com/firebase/flutterfire/issues/9057) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
+3. 🎉 Merged PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+4. 💪 Opened PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+5. ❗️ Closed issue [#34](https://github.com/DSC-UTDallas/DSC-Bot/issues/34) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+<!--END_SECTION:activity-->
 
-## 📬 Get in touch
+![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
 
-<p align="center">
-   <br>
+<!--START_SECTION:table-->
+<details>
 
-<a target="_blank" href="mailto:pranav@verma.net.in"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@pranav_6086"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/intent/follow?screen_name=GamesharePranav"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
-</p>       
+<summary>More Stats 📊 </summary>
 
-## &#x1f4c8; My GitHub Stats
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2056%20mins-blue)
 
-<a href="https://github.com/PranavVerma-droid/PranavVerma-droid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavVerma-droid&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
-<a href="https://github.com/PranavVerma-droid/PranavVerma-droid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavVerma-droid&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
-</a>
-<br>
+**🐱 My GitHub Data** 
 
+> 🏆 137 Contributions in the Year 2022
+ > 
+> 📦 587.5 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 26 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
+```text
+🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
+🌆 Daytime    122 commits    ███████░░░░░░░░░░░░░░░░░░   29.68% 
+🌃 Evening    151 commits    █████████░░░░░░░░░░░░░░░░   36.74% 
+🌙 Night      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79%
 
+```
+📅 **I'm Most Productive on Monday** 
 
- Coding Languages that i expertise in:
- 1. HTML
- 2. JavaScript
- 3. Python
- 4. Embedded C
- 5. C#
- 6. C++
- 7. Java
- 8. x86 Assembly
- 9. C
- 10. Java
- 
- To Learn:
- 1. SQL
- 2. SQl Lite
- 3. PHP
- 4. Lua
- 5. Kotlin
- 6. Bootstrap
- 7. React
- 8. R
- 9. Redux
- 10. MongoDB
- 
+```text
+Monday       110 commits    ██████░░░░░░░░░░░░░░░░░░░   26.76% 
+Tuesday      81 commits     █████░░░░░░░░░░░░░░░░░░░░   19.71% 
+Wednesday    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
+Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
+Friday       13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
+Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
+Sunday       103 commits    ██████░░░░░░░░░░░░░░░░░░░   25.06%
