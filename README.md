@@ -31,12 +31,40 @@ void gamedevs() {
         int attended = 4;
         int won = 0; //YET :(
         int mentoredJudged = 0; }
-
+void currentProjects() {
+    char customdrone = "Working on a customizable drone that is less than 12$!";
+    char secret = "Working on a top secret project! Stay tuned!";
+    char OSX = "Making a custom OS for the above project";
+    char XCoreDevOS = "A challenge given by my fellow classmates - make a os w/ scrambled lib names";
+    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages!" }
 
 int main() {
     PranavVerma();
     printf("Hello! Welcome to the Source Code of my Github Readme.md!\n");
     printf("https://github.com/PranavVerma-droid");
+    
+    int n = 4;
+    int* ptr;
+    ptr = (int*) malloc(n * sizeof(int));
+
+    if (ptr == NULL) {
+        printf("Memory cannot be allocated");
+        return 0;
+    }
+    printf("Allocated Memory\n");
+    for (int i = 0; i < n; ++i) {
+      printf("%p\n", ptr + i);
+    }
+
+    n = 35;
+
+    ptr = realloc (ptr, n * sizeof(int));
+    printf("Newly Allocated Memory\n");
+    for (int i = 0; i < n; ++i) {
+      printf("%p\n", ptr + i);
+    }
+    free(ptr);
+    
     
     return 0;
     //This program was written in C
