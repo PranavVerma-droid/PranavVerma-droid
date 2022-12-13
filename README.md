@@ -3,7 +3,7 @@
 <img align='right' src="https://github.com/PranavVerma-droid/PranavVerma-droid/blob/main/DP.jpg" width="200">
 
 ```javascript
-const PranavVerma-droid = {
+const PranavVerma = {
     pronouns: "He/Him",
     askMeAbout: ["Arduino", "Web Development", "Server Management"],
     technologies: {
