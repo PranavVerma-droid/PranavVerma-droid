@@ -3,41 +3,32 @@
 <img align='right' src="https://github.com/PranavVerma-droid/PranavVerma-droid/blob/main/DP.jpg" width="200">
 
 ```javascript
-const SaloniShivdasani = {
-    pronouns: "She/Her",
-    askMeAbout: ["Full Stack Web Development", "Cloud Computing", "Cyber Security"],
+const PranavVerma-droid = {
+    pronouns: "He/Him",
+    askMeAbout: ["Arduino", "Web Development", "Server Management"],
     technologies: {
-        languages: ["Java", "JavaScript", "SQL", "Python", "C++", "BASH", "R"],
+        languages: ["Java", "JavaScript", "C", "Python", "C++", "UNIX", "CSS", "C#"],
+        languages-to-learn: ["MongoDB", "React", "Redux", "Node.js", "R", "F", "F#", "CoffeeScript"]
         webDev: {
-            frontEnd: ["React", "React Native", "Electron"],
-            backEnd: ["Node.js", "Express", "Flask"],
-            databases: ["MongoDB", "MySql"],
+            frontEnd: ["HTML5", "CSS", "JavaScript"]
         },
-        cyberSec: ["Forensics", "Intrusion Detection", "Security Operations", "Network and Application Penetration Testing"],
-        cloud: ["GCP", "AWS", "Splunk"],
-        misc: ["Firebase", "git","Jira","Confluence"]
+        misc: ["Firebase", "git"]
     },
-   currentOrganizations: {
-        president: "Developer Students Club, UTD",
-        educationOfficer: "Association of Computer Machinery, UTD",
-        historian: "Queer and Trans People of Color, UTD",
+   currentAchivements: {
+        //F1 in Schools National Finals 2022 (w/ @japaneil):
+        team-name: "Radtek Motorsports"
+        fastest-reaction-time: "We won the fastest reaction time award!"
+        national-collaborators: "We were in the nominations for National Colaborators!"
    },
-   pastOrganizations: {
-        eventPlanner: "Women Mentoring Women in Engineering, UTD",
-        cloudTechnicalLead: "Developer Students Club, UTD",
+   More Information: {
+        School: "LVIS",
+        Age: "14"
    },
-   hackathons: {
-        attended: 28,
-        won: 14,
-        mentoredJudged: 3
-   },
-   awards: {
-        Women_in_CyberSecurity_2021: "BIPOC Fellowship Award",
-        National_Cyber_League_Spring_2021: "Gold Bracket Competitor - Top 15% nationally",
-        National_Cyber_League_Fall_2020: "Gold Bracket Competitor - Top 15% nationally",
-        WiCyS_Google_2020: "SANS Security Training Scholarship",
-        SANSInstitute_2019: "Cyber Fast-Track Game Quarter-Finalist",
-   },
+   game-devs: {
+        attended: 2,
+        won: 0, //YET :(
+        mentoredJudged: 0
+   }
 };
 ```
 
@@ -46,7 +37,7 @@ const SaloniShivdasani = {
 
 <summary>Learn More About Me 😄 </summary>
 
-I am a senior at The University of Texas at Dallas, and I am currently majoring in Software Engineering with a concentration in Information Assurance. I am interested and have experience in full stack development, cloud computing, and cybersecurity. I hope to find opportunities where I can gain exposure to algorithm and project design. My ultimate aim is to develop futuristic products for users because I am inspired by the impact of computing on society.
+I am a student at Lotus Valley, Noida, and I am currently majoring in Software Engineering with a concentration in Information Assurance. I am interested and have experience in full stack development, cloud computing, and cybersecurity. I hope to find opportunities where I can gain exposure to algorithm and project design. My ultimate aim is to develop futuristic products for users because I am inspired by the impact of computing on society.
 
 I have experience in full stack web development through my participation and awards in hackathons where I have learnt and used React, Node.js, Express, MongoDB, Flask, NLTK, and React Native along with GIT, GCP, and Firebase. Last semester, I was also responsible for backend development for a project at a local NGO where I created a REST API using Node.js, Express, MongoDB and SQL and hosted it on servers using GCP. 
 
@@ -58,17 +49,17 @@ I am also actively involved in campus organization where I am the cloud technica
 
 <!--END_SECTION:table-->
 
-### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
+### Learn more about me on my [website](https://pranavverma233.wixsite.com/pranav-verma/).
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107317](https://github.com/flutter/flutter/issues/107317) in [flutter/flutter](https://github.com/flutter/flutter)
+<!--1. 🗣 Commented on [#107317](https://github.com/flutter/flutter/issues/107317) in [flutter/flutter](https://github.com/flutter/flutter)
 2. ❗️ Opened issue [#9057](https://github.com/firebase/flutterfire/issues/9057) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
 3. 🎉 Merged PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 4. 💪 Opened PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-5. ❗️ Closed issue [#34](https://github.com/DSC-UTDallas/DSC-Bot/issues/34) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+5. ❗️ Closed issue [#34](https://github.com/DSC-UTDallas/DSC-Bot/issues/34) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot) -->
 <!--END_SECTION:activity-->
 
-![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=PranavVerma-droid)
 
 <!--START_SECTION:table-->
 <details>
@@ -82,26 +73,22 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My GitHub Data** 
 
-> 🏆 137 Contributions in the Year 2022
+> 🏆 234 Commits in the Year 2022
  > 
 > 📦 587.5 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 📜 5 Public Repositories 
  > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 26 Private Repositories  
- > 
-**I'm a Night 🦉** 
+> 🔑 12 Private Repositories
 
 ```text
-🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
+🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
 🌆 Daytime    122 commits    ███████░░░░░░░░░░░░░░░░░░   29.68% 
 🌃 Evening    151 commits    █████████░░░░░░░░░░░░░░░░   36.74% 
 🌙 Night      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **Commits Based on the Week:** 
 
 ```text
 Monday       110 commits    ██████░░░░░░░░░░░░░░░░░░░   26.76% 
