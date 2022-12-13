@@ -8,7 +8,7 @@ const PranavVerma = {
     askMeAbout: ["Arduino", "Web Development", "Server Management"],
     technologies: {
         languages: ["Java", "JavaScript", "C", "Python", "C++", "UNIX", "CSS", "C#"],
-        languages-to-learn: ["MongoDB", "React", "Redux", "Node.js", "R", "F", "F#", "CoffeeScript"]
+        languagestolearn: ["MongoDB", "React", "Redux", "Node.js", "R", "F", "F#", "CoffeeScript"]
         webDev: {
             frontEnd: ["HTML5", "CSS", "JavaScript"]
         },
@@ -24,7 +24,7 @@ const PranavVerma = {
         School: "LVIS",
         Age: "14"
    },
-   game-devs: {
+   gamedevs: {
         attended: 2,
         won: 0, //YET :(
         mentoredJudged: 0
