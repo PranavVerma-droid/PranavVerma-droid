@@ -11,7 +11,7 @@ void PranavVerma() {
     char askMeAbout = "Arduino, Web Development, Server Management"; }
 void technologies() {
         char languages = "Java, JavaScript, C, Python, C++, UNIX, CSS, C#";
-        char languagestolearn = "MongoDB, React, Redux, Node.js, R, F, F#, CoffeeScript, SQL, KOTLIN";
+        char languagestolearn = "MongoDB, React, Redux, Node.js, R, F#, CoffeeScript, SQL, KOTLIN";
         char misc = "Firebase, git"; }
 void webDev() {
         char frontEnd = "HTML5, CSS, JavaScript";
