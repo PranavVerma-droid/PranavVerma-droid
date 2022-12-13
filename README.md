@@ -17,7 +17,7 @@ const PranavVerma = {
    currentAchivements: {
         //F1 in Schools National Finals 2022 (w/ @japaneil):
         teamname: "Radtek Motorsports"
-        fastestreactiontime: "We won the fastest reaction time award!"
+        fastestreactiontime: "We won the fastest reaction time award! (0.029s)"
         nationalcollaborators: "We were in the nominations for National Colaborators!"
    },
    moreinformation: {
