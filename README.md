@@ -2,34 +2,45 @@
 
 <img align='right' src="https://github.com/PranavVerma-droid/PranavVerma-droid/blob/main/DP.jpg" width="200">
 
-```javascript
-const PranavVerma = {
-    pronouns: "He/Him",
-    askMeAbout: ["Arduino", "Web Development", "Server Management"],
-    technologies: {
-        languages: ["Java", "JavaScript", "C", "Python", "C++", "UNIX", "CSS", "C#"],
-        languagestolearn: ["MongoDB", "React", "Redux", "Node.js", "R", "F", "F#", "CoffeeScript"]
-        webDev: {
-            frontEnd: ["HTML5", "CSS", "JavaScript"]
-        },
-        misc: ["Firebase", "git"]
-    },
-   currentAchivements: {
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+void PranavVerma() {
+    char pronouns = 'He/Him';
+    char askMeAbout = "Arduino, Web Development, Server Management"; }
+void technologies() {
+        char languages = "Java, JavaScript, C, Python, C++, UNIX, CSS, C#";
+        char languagestolearn = "MongoDB, React, Redux, Node.js, R, F, F#, CoffeeScript";
+        char misc = "Firebase, git"; }
+void webDev() {
+        char frontEnd = "HTML5, CSS, JavaScript";
+        char backEnd = "Firebase, Node.js"; }
+        
+void currentAchivements() {
         //F1 in Schools National Finals 2022 (w/ @japaneil):
-        teamname: "Radtek Motorsports"
-        fastestreactiontime: "We won the fastest reaction time award! (0.029s)"
-        nationalcollaborators: "We were in the nominations for National Colaborators!"
-   },
-   moreinformation: {
-        School: "LVIS",
-        Age: "14"
-   },
-   gamedevs: {
-        attended: 2,
-        won: 0, //YET :(
-        mentoredJudged: 0
-   }
-};
+        char teamname = "Radtek Motorsports";
+        char fastestreactiontime = "We won the fastest reaction time award! (0.029s)";
+        char nationalcollaborators = "We were in the nominations for National Colaborators!"; }
+   
+void moreinformation() {
+        char school = "LVIS";
+        char age = "14"; }
+        
+void gamedevs() {
+        int attended = 4;
+        int won = 0; //YET :(
+        int mentoredJudged = 0; }
+
+
+int main() {
+    PranavVerma();
+    printf("Hello! Welcome to the Source Code of my Github Readme.md!\n");
+    printf("https://github.com/PranavVerma-droid");
+    
+    return 0;
+    //This program was written in C
+}
 ```
 
 <!--START_SECTION:table-->
