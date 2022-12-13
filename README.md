@@ -20,7 +20,7 @@ const PranavVerma = {
         fastestreactiontime: "We won the fastest reaction time award!"
         nationalcollaborators: "We were in the nominations for National Colaborators!"
    },
-   More Information: {
+   moreinformation: {
         School: "LVIS",
         Age: "14"
    },
@@ -32,7 +32,7 @@ const PranavVerma = {
 };
 ```
 
-<!--START_SECTION:table-->
+<!--START_SECTION:table
 <details>
 
 <summary>Learn More About Me 😄 </summary>
