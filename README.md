@@ -114,7 +114,7 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 12 Private Repositories
+> 🔑 19 Private Repositories
 
 ```text
 🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
