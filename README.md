@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void PranavVerma() {
+public static void PranavVerma() {
     char pronouns = 'He/Him';
     char askMeAbout = "Arduino, Web Development, Server Management"; }
 void technologies() {
