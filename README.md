@@ -108,7 +108,7 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 
 > 🏆 234 Commits in the Year 2022
  > 
-> 📦 587.5 kB Used in GitHub's Storage 
+> 📦 136.3 MB Used in GitHub's Storage 
  > 
 > 📜 5 Public Repositories 
  > 
