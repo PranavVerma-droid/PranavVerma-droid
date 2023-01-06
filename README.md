@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align='right' src="https://github.com/PranavVerma-droid/PranavVerma-droid/blob/main/DP.png" width="200">
+<img align='right' src="https://github.com/PranavVerma-droid/PranavVerma-droid/blob/main/DP.jpg" width="200" alt="Main.jpg">
 
 ```c
 #include <stdio.h>
