@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align='right' src="https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" width="200" alt="Main.jpg">
+<img align='right' src="https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" width="300" alt="Main.jpg">
 
 ```c
 #include <stdio.h>
@@ -110,17 +110,13 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 
 > 🏆 234 Commits in the Year 2022
  > 
-> 📦 136.3 MB Used in GitHub's Storage 
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 19 Private Repositories
+> 📦 2.53 GB Used in GitHub's Storage 
 
 ```text
-🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-🌆 Daytime    122 commits    ███████░░░░░░░░░░░░░░░░░░   29.68% 
-🌃 Evening    151 commits    █████████░░░░░░░░░░░░░░░░   36.74% 
-🌙 Night      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79%
+🌞 Morning    60 commits     ███   16.79% 
+🌆 Daytime    122 commits    ███████  29.68% 
+🌃 Evening    151 commits    █████████   36.74% 
+🌙 Night      69 commits     ████   16.79%
 
 ```
 📅 **Commits Based on the Week:** 
