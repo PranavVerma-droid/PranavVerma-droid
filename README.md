@@ -65,7 +65,7 @@ int main() {
     
     
     return 0;
-    //This program was written in C
+    //This program was written by PranavVerma-droid
 }
 ```
 
