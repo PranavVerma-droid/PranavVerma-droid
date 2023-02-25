@@ -32,10 +32,8 @@ void gamedevs() {
         int won = 0; //YET :(
         int mentoredJudged = 0; }
 void currentProjects() {
-    char customdrone = "Working on a customizable drone that is less than 12$!";
     char secret = "Working on a top secret project! Stay tuned!";
     char OSX = "Making a custom OS for the above project";
-    char XCoreDevOS = "A challenge given by my fellow classmates - make a os w/ scrambled lib names";
     char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages! (Currently Learning GoLang)" }
 
 int main() {
