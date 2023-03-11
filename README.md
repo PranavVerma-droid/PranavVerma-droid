@@ -82,6 +82,7 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 
 ### Learn more about me on my [website](https://pranavverma233.wixsite.com/pranav-verma/).
 ### Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v234)
+### My Website: [https://pranavverma-droid.github.io](https://pranavverma-droid.github.io)
 ### Reach out (Email): pranav@verma.net.in
 
 <!--START_SECTION:activity-->
