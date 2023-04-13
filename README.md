@@ -10,11 +10,12 @@ public void PranavVerma() {
     char pronouns = 'He/Him';
     char askMeAbout = "Arduino, Web Development, Server Management"; }
 void technologies() {
-        char languages = "Java, JavaScript, C, Python, C++, UNIX, CSS, C#";
+        char languages = "Java, JavaScript, C, Python, C++, UNIX, CSS, C#, Flutter (Dart)";
         char languagestolearn = "MongoDB, React, Redux, Node.js, R, F#, CoffeeScript, SQL, KOTLIN";
-        char misc = "Firebase, git"; }
+        char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), Server Management, Testing (Hardware/Software), Arduino"; 
+        char misc = "Firebase, git, Photoshop, Blender, Unity, UnrealEngine"; }
 void webDev() {
-        char frontEnd = "HTML5, CSS, JavaScript";
+        char frontEnd = "HTML5, CSS, JavaScript, Flutter (Dart)";
         char backEnd = "Firebase, Node.js"; }
         
 void currentAchivements() {
@@ -30,11 +31,12 @@ void gamedevs() {
         int attended = 4;
         int won = 0; //YET :(
         int mentoredJudged = 0; }
+        
 void currentProjects() {
     char secret = "Working on a top secret project! Stay tuned!";
     char OSX = "Making a custom OS for the above project";
-    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages! (Currently Learning GoLang)" 
-    char wbesite = "Making my own Website! https://web.craftingrealm.tk" }
+    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages! (Currently Learning GoLang)";
+    char wbesite = "Making my own Website! https://web.craftingrealm.tk"; }
 
 int main() {
     PranavVerma();
