@@ -24,8 +24,7 @@ void currentAchivements() {
         char nationalcollaborators = "We were in the nominations for National Colaborators!"; }
    
 void moreinformation() {
-        char school = "LVIS";
-        char age = "14"; }
+        char school = "LVIS"; }
         
 void gamedevs() {
         int attended = 4;
@@ -34,37 +33,15 @@ void gamedevs() {
 void currentProjects() {
     char secret = "Working on a top secret project! Stay tuned!";
     char OSX = "Making a custom OS for the above project";
-    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages! (Currently Learning GoLang)" }
+    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages! (Currently Learning GoLang)" 
+    char wbesite = "Making my own Website! https://web.craftingrealm.tk" }
 
 int main() {
     PranavVerma();
     printf("Hello! Welcome to the Source Code of my Github Readme.md!\n");
-    printf("https://github.com/PranavVerma-droid");
-    
-    int n = 4;
-    int* ptr;
-    ptr = (int*) malloc(n * sizeof(int));
-
-    if (ptr == NULL) {
-        printf("Memory cannot be allocated");
-        return 0;
-    }
-    printf("Allocated Memory\n");
-    for (int i = 0; i < n; ++i) {
-      printf("%p\n", ptr + i);
-    }
-
-    n = 35;
-
-    ptr = realloc (ptr, n * sizeof(int));
-    printf("Newly Allocated Memory\n");
-    for (int i = 0; i < n; ++i) {
-      printf("%p\n", ptr + i);
-    }
-    free(ptr);
+    printf("https://web.craftingrealm.tk");
     
     
-    return 0;
     //This program was written by PranavVerma-droid
 }
 ```
@@ -80,9 +57,8 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 
 <!--END_SECTION:table-->
 
-### Learn more about me on my [website](https://pranavverma233.wixsite.com/pranav-verma/).
+### Learn more about me on my [Website](https://web.craftingrealm.tk).
 ### Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v234)
-### My Website: [https://pranavverma-droid.github.io](https://pranavverma-droid.github.io)
 ### Reach out (Email): pranav@verma.net.in
 
 <!--START_SECTION:activity-->
