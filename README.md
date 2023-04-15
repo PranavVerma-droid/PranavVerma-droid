@@ -8,10 +8,13 @@
 
 public void PranavVerma() {
     char pronouns = 'He/Him';
-    char askMeAbout = "Arduino, Web Development, Server Management"; }
+    
+    char email = 'pranav@verma.net.in'
+    char codecademy = '@pranav_v234'
+    char instagram = '@pranav_verma.234';
 void technologies() {
         char languages = "JavaScript, Python, CSS, C# (Unity), HTML5";
-        char languagestolearn = "C, Flutter (Dart) - For App Making, Python (Advanced - Revising 😅), and Svelte w/ JS for UI";
+        char languagestolearn = "|C|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|Svelte w/ JS for UI|Meta Framework (Backend -> Frontend)|";
         char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), Server Management, Testing (Hardware/Software), Arduino"; 
         char misc = "Firebase, git, Photoshop, Blender, Unity"; }
 void webDev() {
