@@ -87,6 +87,7 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 <!--END_SECTION:activity-->
 
 ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=PranavVerma-droid)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:table-->
 <details>
