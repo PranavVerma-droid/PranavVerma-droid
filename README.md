@@ -16,8 +16,10 @@ public void PranavVerma() {
     char twitter = '@PranavVerm65898'
 void technologies() {
         char languages = "JavaScript, Python, CSS, C# (Unity), HTML5";
-        char languagestolearn = "|C|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|Svelte w/ JS for UI|Meta Framework (Backend -> Frontend)|";
-        char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), Server Management, Testing (Hardware/Software), Arduino"; 
+        char languagestolearn = "|C|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|
+                                 |Svelte w/ JS for UI|Meta Framework (Backend -> Frontend)|";
+        char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), Server Management, 
+                      Testing (Hardware/Software), Arduino"; 
         char misc = "Firebase, git, Photoshop, Blender, Unity"; }
 void webDev() {
         char frontEnd = "HTML5, CSS, JavaScript, Flutter (Dart)";
@@ -43,7 +45,8 @@ void gamedevs() {
 void currentProjects() {
     char secret = "Working on a top secret project! Stay tuned!";
     char OSX = "Making a custom OS for the above project";
-    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages!";
+    char learnLanguages = "Ofc, I am always learning something, 
+                           and I love to learn new and different languages!";
     char website = "Making my own Website! https://web.craftingrealm.tk"; }
 
 void futureProjects() {
