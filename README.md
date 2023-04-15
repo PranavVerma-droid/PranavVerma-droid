@@ -13,7 +13,7 @@ public void PranavVerma() {
     char codecademy = '@pranav_v234';
     char w3schools = '@pranavverma234';
     char instagram = '@pranav_verma.234';
-    chat twitter = '@PranavVerm65898'
+    char twitter = '@PranavVerm65898'
 void technologies() {
         char languages = "JavaScript, Python, CSS, C# (Unity), HTML5";
         char languagestolearn = "|C|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|Svelte w/ JS for UI|Meta Framework (Backend -> Frontend)|";
