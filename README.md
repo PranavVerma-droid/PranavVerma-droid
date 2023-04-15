@@ -41,6 +41,10 @@ void currentProjects() {
     char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages!";
     char website = "Making my own Website! https://web.craftingrealm.tk"; }
 
+void futureProjects() {
+    char ObjectReconising = "Using OpenCV w/ Python to make a Object Tracking App";
+    char ObjectReconisingApp = "Using Flutter (Dart) to Implement the above in Mobile/Web/Desktop App(s).";
+
 int main() {
     printf("Hello! Welcome to the Source Code of my Github Readme.md!\n");
     printf("https://web.craftingrealm.tk");
