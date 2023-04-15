@@ -11,7 +11,7 @@ public void PranavVerma() {
     char askMeAbout = "Arduino, Web Development, Server Management"; }
 void technologies() {
         char languages = "JavaScript, Python, CSS, C# (Unity), HTML5";
-        char languagestolearn = "C, Flutter (Dart) - For App Making, Python (Advanced - Revising 😅)";
+        char languagestolearn = "C, Flutter (Dart) - For App Making, Python (Advanced - Revising 😅), and Svelte w/ JS for UI";
         char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), Server Management, Testing (Hardware/Software), Arduino"; 
         char misc = "Firebase, git, Photoshop, Blender, Unity"; }
 void webDev() {
