@@ -87,7 +87,7 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 <!--END_SECTION:activity-->
 
 ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=PranavVerma-droid)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&theme=onedark)]
 
 <!--START_SECTION:table-->
 <details>
@@ -115,10 +115,10 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 📅 **Commits Based on the Week:** 
 
 ```text
-Monday       110 commits    ██████░░░░░░░░░░░░░░░░░░░   26.76% 
-Tuesday      81 commits     █████░░░░░░░░░░░░░░░░░░░░   19.71% 
-Wednesday    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-Friday       13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Sunday       103 commits    ██████░░░░░░░░░░░░░░░░░░░   25.06%
+Monday       110 commits    ██████   26.76% 
+Tuesday      81 commits     █████   19.71% 
+Wednesday    28 commits     █   6.81% 
+Thursday     16 commits     █   3.89% 
+Friday       13 commits        3.16% 
+Saturday     60 commits     ███   14.6% 
+Sunday       103 commits    ██████   25.06%
