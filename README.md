@@ -89,7 +89,7 @@ I am a student at Lotus Valley, Noida, and I am currently working on software mo
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=PranavVerma-droid&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavVerma-droid&layout=compact" />
-</div>
+</div><br>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=8&theme=gruvbox&no-frame=true"/>
 
 <!--START_SECTION:table-->
