@@ -10,19 +10,22 @@ public void PranavVerma() {
     char pronouns = 'He/Him';
     char askMeAbout = "Arduino, Web Development, Server Management"; }
 void technologies() {
-        char languages = "Java, JavaScript, C, Python, C++, UNIX, CSS, C#, Flutter (Dart)";
-        char languagestolearn = "MongoDB, React, Redux, Node.js, R, F#, CoffeeScript, SQL, KOTLIN";
+        char languages = "JavaScript, Python, CSS, C# (Unity), HTML5";
+        char languagestolearn = "C, Flutter (Dart) - For App Making, Python (Advanced - Revising 😅)";
         char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), Server Management, Testing (Hardware/Software), Arduino"; 
-        char misc = "Firebase, git, Photoshop, Blender, Unity, UnrealEngine"; }
+        char misc = "Firebase, git, Photoshop, Blender, Unity"; }
 void webDev() {
         char frontEnd = "HTML5, CSS, JavaScript, Flutter (Dart)";
-        char backEnd = "Firebase, Node.js"; }
+        char backEnd = "Firebase"; }
         
 void currentAchivements() {
         //F1 in Schools National Finals 2022 (w/ @japaneil):
         char teamname = "Radtek Motorsports";
         char fastestreactiontime = "We won the fastest reaction time award! (0.029s)";
         char nationalcollaborators = "We were in the nominations for National Colaborators!"; }
+        
+        //Technoxian (w/ @japaneil):
+        char CompetitionName = "Fastest Line Follower";
    
 void moreinformation() {
         char school = "LVIS"; }
@@ -35,16 +38,16 @@ void gamedevs() {
 void currentProjects() {
     char secret = "Working on a top secret project! Stay tuned!";
     char OSX = "Making a custom OS for the above project";
-    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages! (Currently Learning GoLang)";
-    char wbesite = "Making my own Website! https://web.craftingrealm.tk"; }
+    char learnLanguages = "Ofc, I am always learning something, and I love to learn new and different languages!";
+    char website = "Making my own Website! https://web.craftingrealm.tk"; }
 
 int main() {
-    PranavVerma();
     printf("Hello! Welcome to the Source Code of my Github Readme.md!\n");
     printf("https://web.craftingrealm.tk");
     
     
     //This program was written by PranavVerma-droid
+    //https://web.craftingrealm.tk
 }
 ```
 
