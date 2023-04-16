@@ -48,7 +48,7 @@ void currentProjects() {
     char learnLanguages = "Ofc, I am always learning something, 
                            and I love to learn new and different languages!";
     char website = "Making my own Website! https://web.craftingrealm.tk";
-    char drone = "I Made my Own Drone! (Custom PCB, Small Motors, under 10$); }
+    char drone = "I Made my Own Drone! (Custom PCB, Small Motors, under 10$)"; }
 
 void futureProjects() {
     char ObjectReconising = "Using OpenCV w/ Python to make a Object Tracking App";
