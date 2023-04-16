@@ -69,21 +69,26 @@ int main() {
 <summary>Learn More About Me 😄 </summary>
 
 I am a Student and I am currently working on software more than hardware. I am interested and have experience in full stack development, arduino, and Server management. I hope to learn more coding and get better at the ones I already know. My ultimate aim is to leave the world better than I started with it. I want to learn ML and AI and OpenCV when I (hopefully) get time.
+    
+### Learn more about me on my [Website](https://web.craftingrealm.tk).
+### I also host a [Minecraft Server](https://web.craftingrealm.tk/CraftingRealm.html)!
+
+
+### Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v234)
+### W3Schools Username: [@pranavverma234](https://www.w3profile.com/PranavVerma234)
+
+
+### Reach out (Email): [pranav@craftingrealm.tk](mailto: pranav@craftingrealm.tk)
+
+
+### Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898)
+### Instagram: [@pranav_verma.234](https://instagram.com/pranav_verma.234)
 
 </details>
 
 <!--END_SECTION:table-->
 
-### Learn more about me on my [Website](https://web.craftingrealm.tk).
-### I also host a [Minecraft Server](https://web.craftingrealm.tk/CraftingRealm.html)!
 
-### Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v234)
-### W3Schools Username: [@pranavverma234](https://www.w3profile.com/PranavVerma234)
-
-### Reach out (Email): [pranav@craftingrealm.tk](mailto: pranav@craftingrealm.tk)
-
-### Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898)
-### Instagram: [@pranav_verma.234](https://instagram.com/pranav_verma.234)
 
 
 <!--START_SECTION:activity-->
