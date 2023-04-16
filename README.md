@@ -78,7 +78,7 @@ Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v2
 W3Schools Username: [@pranavverma234](https://www.w3profile.com/PranavVerma234)
 
 
-Reach out (Email): [pranav@craftingrealm.tk](mailto: pranav@craftingrealm.tk) <br>
+Reach out (Email): pranav@craftingrealm.tk or pranav@verma.net.in <br>
 
 
 Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898) <br>
