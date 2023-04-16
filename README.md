@@ -9,7 +9,7 @@
 public void PranavVerma() {
     char pronouns = 'He/Him';
     
-    char email = 'pranav@verma.net.in';
+    char email = 'pranav@verma.net.in or pranav@craftingrealm.tk';
     char codecademy = '@pranav_v234';
     char w3schools = '@pranavverma234';
     char instagram = '@pranav_verma.234';
