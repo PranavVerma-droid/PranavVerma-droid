@@ -17,7 +17,7 @@ public void PranavVerma() {
 void technologies() {
         char languages = "JavaScript, Python, CSS, C# (Unity), HTML5";
         char languagestolearn = "|C, C++|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|
-                                 |Svelte w/ JS for UI|Meta Framework (Backend -> Frontend)|";
+                                 |Vue w/ JS for UI|Meta Framework (Backend -> Frontend)|";
         char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), 
                       Server Management, Testing (Hardware/Software), Arduino"; 
         char misc = "Firebase, git, Photoshop, Blender, Unity"; }
