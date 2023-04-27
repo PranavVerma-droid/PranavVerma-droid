@@ -1,7 +1,6 @@
 ## Hey There! Welcome to my Profile! 👋
 
 
-
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -67,7 +66,7 @@ int main() {
 <!--START_SECTION:table-->
 <details>
 
-<summary>Learn More About Me 😄 </summary>
+<summary>Learn More About Me 😄 </summary> <br>
 
 I am a Student and I am currently working on software more than hardware. I am interested and have experience in full stack development, arduino, and Server management. I hope to learn more coding and get better at the ones I already know. My ultimate aim is to leave the world better than I started with it. I want to learn ML and AI and OpenCV when I (hopefully) get time.
     
@@ -99,6 +98,14 @@ Instagram: [@pranav_verma.234](https://instagram.com/pranav_verma.234)
 4. 💪 Opened PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 5. ❗️ Closed issue [#34](https://github.com/DSC-UTDallas/DSC-Bot/issues/34) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot) -->
 <!--END_SECTION:activity-->
+  <div> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PranavVerma-droid&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavVerma-droid&theme=react&line_height=40&hide=css"/>
+    </a>
+</div> <br>
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=8&theme=gruvbox&no-frame=true"/>
 
