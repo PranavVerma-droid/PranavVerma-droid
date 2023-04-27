@@ -43,7 +43,7 @@ void gamedevs() {
         
 void currentProjects() {
     char secret = "Working on a top secret project! Stay tuned!";
-    char OSX = "Making a custom OS for the above project";
+    char OSX = "Making a custom OS for the above project - InfinityX OS";
     char learnLanguages = "Ofc, I am always learning something, 
                            and I love to learn new and different languages!";
     char website = "Making my own Website! https://web.craftingrealm.tk";
