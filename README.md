@@ -42,12 +42,11 @@ void gamedevs() {
         int mentoredJudged = 0; }
         
 void currentProjects() {
-    char secret = "Working on a top secret project! Stay tuned!";
-    char OSX = "Making a custom OS for the above project - InfinityX OS";
+    char checkWebsite = "Please Check my Website for all of my Projects
+                         https://web.craftingrealm.tk/aboutMe.html";
     char learnLanguages = "Ofc, I am always learning something, 
                            and I love to learn new and different languages!";
-    char website = "Making my own Website! https://web.craftingrealm.tk";
-    char drone = "I Made my Own Drone! (Custom PCB, Small Motors, under 10$)"; }
+    char website = "Making my own Website! https://web.craftingrealm.tk"; }
 
 void futureProjects() {
     char ObjectReconising = "Using OpenCV w/ Python to make a Object Tracking App";
