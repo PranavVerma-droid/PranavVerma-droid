@@ -108,6 +108,10 @@ Instagram: [@pranav_verma.234](https://instagram.com/pranav_verma.234)
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=8&theme=gruvbox&no-frame=true"/>
 
+<center><div>
+<a href="https://www.buymeacoffee.com/neilaroraAI"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neilaroraAI" /></a>
+</div></center> <br><br><br>
+
 <!--START_SECTION:table-->
 <details>
 
