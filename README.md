@@ -14,9 +14,9 @@ public void PranavVerma() {
     char instagram = '@pranav_verma.234';
     char twitter = '@PranavVerm65898'
 void technologies() {
-        char languages = "JavaScript, Python, CSS, C# (Unity), HTML5";
+        char languages = "JavaScript, Python, CSS, C# (Unity), HTML5, React.js, Java (Slimefun)";
         char languagestolearn = "|C, C++|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|
-                                 |Vue w/ JS for UI|Meta Framework (Backend -> Frontend)|";
+                                 |Vue w/ JS for UI|";
         char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), 
                       Server Management, Testing (Hardware/Software), Arduino"; 
         char misc = "Firebase, git, Photoshop, Blender, Unity"; }
