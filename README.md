@@ -11,13 +11,13 @@ public void PranavVerma() {
     char email = 'pranav@verma.net.in or pranav@craftingrealm.tk';
     char codecademy = '@pranav_v234';
     char w3schools = '@pranavverma234';
-    char instagram = '@pranav_verma.234';
+    char instagram = '@pranavv.404';
     char twitter = '@PranavVerm65898'
 void technologies() {
         char languages = "JavaScript, Python, CSS, C# (Unity), HTML5, React.js, Java (Slimefun)";
         char languagestolearn = "|C, C++|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|
                                  |Vue w/ JS for UI|";
-        char tools = "Ptedodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), 
+        char tools = "Pterodactyl, Pufferpanel, Website Maker, Internet (Port Forwarding, Broadband, etc.), 
                       Server Management, Testing (Hardware/Software), Arduino"; 
         char misc = "Firebase, git, Photoshop, Blender, Unity"; }
 void webDev() {
@@ -43,7 +43,7 @@ void gamedevs() {
         
 void currentProjects() {
     char checkWebsite = "Please Check my Website for all of my Projects
-                         https://web.craftingrealm.tk/aboutMe.html";
+                         https://web.craftingrealm.tk/projects.html";
     char learnLanguages = "Ofc, I am always learning something, 
                            and I love to learn new and different languages!";
     char website = "Making my own Website! https://web.craftingrealm.tk"; }
@@ -61,6 +61,10 @@ int main() {
     //https://web.craftingrealm.tk
 }
 ```
+
+<details>
+
+<summary>Learn More About Me 😄 </summary> <br>
 
 Hey there, amazing developers and tech enthusiasts! Today, I want to take a moment to share my coding journey with all of you and ask for your support as I continue to grow as a developer. So, grab a cup of coffee and join me as I talk about my passion for coding!
 
@@ -82,13 +86,7 @@ Embarking on a coding journey is an exhilarating adventure, but it comes with it
 ☕️ Let's Code Together:
 By supporting my coding journey, you're not just helping me; you're investing in the future of technology. Together, we can create a world where software solutions drive positive change and shape the digital landscape.
 
-Thank you for being a part of my coding adventure. Let's code together, one cup of coffee at a time!
-
-<details>
-
-<summary>Learn More About Me 😄 </summary> <br>
-
-I am a Student and I am currently working on software more than hardware. I am interested and have experience in full stack development, arduino, and Server management. I hope to learn more coding and get better at the ones I already know. My ultimate aim is to leave the world better than I started with it. I want to learn ML and AI and OpenCV when I (hopefully) get time.
+I am a Student and I am currently working on software more than hardware. I am interested and have experience in full-stack development, Arduino, and Server management. I hope to learn more coding and get better at the ones I already know. My ultimate aim is to leave the world better than I started with it. I want to learn ML and AI and OpenCV when I (hopefully) get time.
     
 Learn more about me on my [Website](https://web.craftingrealm.tk). <br>
 I also host a [Minecraft Server](https://web.craftingrealm.tk/CraftingRealm.html)!
@@ -102,7 +100,9 @@ Reach out (Email): pranav@craftingrealm.tk or pranav@verma.net.in <br>
 
 
 Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898) <br>
-Instagram: [@pranav_verma.234](https://instagram.com/pranav_verma.234)
+Instagram: [@pranavv.404](https://instagram.com/pranavv.404)
+
+Thank you for being a part of my coding adventure. Let's code together, one cup of coffee at a time!
 
 </details>
 
