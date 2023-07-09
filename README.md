@@ -102,7 +102,8 @@ Reach out (Email): pranav@craftingrealm.tk or pranav@verma.net.in <br>
 Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898) <br>
 Instagram: [@pranavv.404](https://instagram.com/pranavv.404)
 
-Thank you for being a part of my coding adventure. Let's code together, one cup of coffee at a time!
+Thank you for being a part of my coding adventure. Let's code together, one cup of coffee at a time! <br><br>
+<a href="https://www.buymeacoffee.com/pranavverma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavverma" /></a>
 
 </details>
 
@@ -127,11 +128,8 @@ Thank you for being a part of my coding adventure. Let's code together, one cup 
     </a>
 </div> <br>
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=8&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=9&no-frame=true&theme=gruvbox"/>
 
-<center><div>
-<a href="https://www.buymeacoffee.com/pranavverma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavverma" /></a>
-</div></center> <br><br><br>
 
 <!--START_SECTION:table-->
 <details>
