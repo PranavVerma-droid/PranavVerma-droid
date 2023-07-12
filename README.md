@@ -64,8 +64,6 @@ int main() {
 }
 ```
 
-![Alt](https://repobeats.axiom.co/api/embed/e35efaca9d307dac775e16deeba32b03035cf7e0.svg "Repobeats analytics image")
-
 <details>
 
 <summary>Learn More About Me 😄 </summary> <br>
@@ -114,7 +112,7 @@ Thank you for being a part of my coding adventure. Let's code together, one cup 
 <!--END_SECTION:table-->
 
 
-
+![Alt](https://repobeats.axiom.co/api/embed/e35efaca9d307dac775e16deeba32b03035cf7e0.svg "Repobeats analytics image")
 
 <!--START_SECTION:activity-->
 <!--1. 🗣 Commented on [#107317](https://github.com/flutter/flutter/issues/107317) in [flutter/flutter](https://github.com/flutter/flutter)
