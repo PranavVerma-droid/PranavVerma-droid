@@ -62,6 +62,8 @@ int main() {
 }
 ```
 
+![Alt](https://repobeats.axiom.co/api/embed/e35efaca9d307dac775e16deeba32b03035cf7e0.svg "Repobeats analytics image")
+
 <details>
 
 <summary>Learn More About Me 😄 </summary> <br>
