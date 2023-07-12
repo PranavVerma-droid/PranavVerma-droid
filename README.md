@@ -30,7 +30,7 @@ void currentAchivements() {
         char fastestreactiontime = "We won the fastest reaction time award! (0.029s)";
         char nationalcollaborators = "We were in the nominations for National Colaborators!"; }
         
-        //Technoxian (w/ @japaneil):
+        //Technoxian 2022 (w/ @japaneil):
         char CompetitionName = "Fastest Line Follower";
    
 void moreinformation() {
@@ -46,7 +46,9 @@ void currentProjects() {
                          https://web.craftingrealm.tk/projects.html";
     char learnLanguages = "Ofc, I am always learning something, 
                            and I love to learn new and different languages!";
-    char website = "Making my own Website! https://web.craftingrealm.tk"; }
+    char website = "Making my own Website! https://web.craftingrealm.tk";
+    char advancedTechAddon = "Making my Own Addon to Slimefun 4!
+                              https://github.com/PranavVerma-droid/AdvancedTech}
 
 void futureProjects() {
     char ObjectReconising = "Using OpenCV w/ Python to make a Object Tracking App";
