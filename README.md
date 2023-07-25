@@ -13,6 +13,8 @@ public void PranavVerma() {
     char w3schools = '@pranavverma234';
     char instagram = '@pranavv.404';
     char twitter = '@PranavVerm65898'
+    char huggingFace = '@PranavVerma-droid';
+    chat linktree = '@envitixy';
 void technologies() {
         char languages = "JavaScript, Python, CSS, C# (Unity), HTML5, React.js, Java (Slimefun)";
         char languagestolearn = "|C, C++|Flutter (Dart) - For App Making|Python (Advanced - Revising 😅)|
@@ -96,6 +98,9 @@ Reach out (Email): pranav@craftingrealm.tk or pranav@verma.net.in <br>
 
 Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898) <br>
 Instagram: [@pranavv.404](https://instagram.com/pranavv.404)
+
+Hugging Face: [@PranavVerma-droid](https://huggingface.co/PranavVerma-droid)
+Linktree: [Envitixy](https://linktr.ee/envitixy)
 
 Thank you for being a part of my coding adventure. Let's code together, one cup of coffee at a time! <br><br>
 <a href="https://www.buymeacoffee.com/pranavverma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavverma" /></a>
