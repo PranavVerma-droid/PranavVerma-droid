@@ -23,12 +23,18 @@ Embarking on a coding journey is an exhilarating adventure, but it comes with it
 3️⃣ Fueling my coding passion: Your encouragement and support mean the world to me. Knowing that there's a community of like-minded developers behind me motivates me to keep pushing boundaries and creating innovative solutions.
 
 ☕️ Let's Code Together:
-By supporting my coding journey, you're not just helping me; you're investing in the future of technology. Together, we can create a world where software solutions drive positive change and shape the digital landscape.
+By supporting my coding journey, you're not just helping me; you're investing in the future of technology. Together, we can create a world where software solutions drive positive change and shape the digital landscape. 
+
+More Information:
+I Usually Learn Little Coding Tutorials Here and There from the Youtube Channel [Fireship](https://youtube.com/@Fireship) and it also provides me with Updates Happening in the Tech World.
+Generally, when I code, I just go into a project that I have in Mind, and then Google/Ask [ChatGPT](https://chat.openai.com) about anywhere I get stuck (if I dont know that programming language. Example - I wanted to build an app with swift, so, I just went into the language without any prior Swift Knowledge, and, when I got stuck, I just Googled it or I asked ChatGPT.
+If I Seriously Want to Learn a Full Topic, I just Learn it on [W3Schools](https://w3schools.com) if that Resource is Available, for example, I wanted to start learning Vue.js (Killer Javascript Framework, I highly recommend it), I simply went to W3Schools and learnt it on there, they have great resources, for both basics and advanced (Example - Vue.js, They get you started by Importing into a basic HTML document using the unpack Vue 3, and to scale up, they teach you how to do it from scratch again using node.)
+
 
 I am a Student and I am currently working on software more than hardware. I am interested and have experience in full-stack development, Arduino, and Server management. I hope to learn more coding and get better at the ones I already know. My ultimate aim is to leave the world better than I started with it. I want to learn ML and AI and OpenCV when I (hopefully) get time.
     
 Learn more about me on my [Website](https://web.craftingrealm.tk). <br>
-I also host a [Minecraft Server](https://web.craftingrealm.tk/CraftingRealm.html)!
+I also host a [Minecraft Server](https://web.craftingrealm.tk/Cmcserver.html)!
 
 
 Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v234) <br>
@@ -43,6 +49,7 @@ Instagram: [@pranavv.404](https://instagram.com/pranavv.404)
 
 Hugging Face: [@PranavVerma-droid](https://huggingface.co/PranavVerma-droid)
 Linktree: [Envitixy](https://linktr.ee/envitixy)
+MonkeyType: [Envitixy](https://monkeytype.com/profile/Envitixy)
 
 Thank you for being a part of my coding adventure. Let's code together, one cup of coffee at a time! <br><br>
 <a href="https://www.buymeacoffee.com/pranavverma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavverma" /></a>
