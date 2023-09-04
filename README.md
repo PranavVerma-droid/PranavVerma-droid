@@ -34,7 +34,7 @@ If I Seriously Want to Learn a Full Topic, I just Learn it on [W3Schools](https:
 I am a Student and I am currently working on software more than hardware. I am interested and have experience in full-stack development, Arduino, and Server management. I hope to learn more coding and get better at the ones I already know. My ultimate aim is to leave the world better than I started with it. I want to learn ML and AI and OpenCV when I (hopefully) get time.
     
 Learn more about me on my [Website](https://web.craftingrealm.tk). <br>
-I also host a [Minecraft Server](https://web.craftingrealm.tk/Cmcserver.html)!
+I also host a [Minecraft Server](https://web.craftingrealm.tk/mcserver.html)!
 
 
 Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v234) <br>
