@@ -47,12 +47,9 @@ Reach out (Email): pranav@craftingrealm.tk or pranav@verma.net.in <br>
 Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898) <br>
 Instagram: [@pranavv.404](https://instagram.com/pranavv.404)
 
-Hugging Face: [@PranavVerma-droid](https://huggingface.co/PranavVerma-droid)
-Linktree: [Envitixy](https://linktr.ee/envitixy)
+Hugging Face: [@PranavVerma-droid](https://huggingface.co/PranavVerma-droid) <br>
+Linktree: [Envitixy](https://linktr.ee/envitixy) <br>
 MonkeyType: [Envitixy](https://monkeytype.com/profile/Envitixy)
-
-Thank you for being a part of my coding adventure. Let's code together, one cup of coffee at a time! <br><br>
-<a href="https://www.buymeacoffee.com/pranavverma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavverma" /></a>
 
 
 ```c
