@@ -1,8 +1,9 @@
 
 <div align="center">
 <a href="https://portfolio.craftingrealm.tk">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=9&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=10&theme=gruvbox&no-frame=true"/>
 </a>
+<div><p>https://portfolio.craftingrealm.tk</p></div>
 </div>
 
 <details>
