@@ -51,11 +51,10 @@ W3Schools Username: [@pranavverma234](https://www.w3profile.com/PranavVerma234)
 Reach out (Email): pranav@craftingrealm.tk or pranav@verma.net.in <br>
 
 
-Twitter: [@PranavVerm65898](https://twitter.com/PranavVerm65898) <br>
+Twitter: [@PranavVermaXD](https://twitter.com/PranavVermaXD) <br>
 Instagram: [@pranavv.404](https://instagram.com/pranavv.404)
 
 Hugging Face: [@PranavVerma-droid](https://huggingface.co/PranavVerma-droid) <br>
-Linktree: [Envitixy](https://linktr.ee/envitixy) <br>
 MonkeyType: [Envitixy](https://monkeytype.com/profile/Envitixy)
 
 
