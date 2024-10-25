@@ -4,7 +4,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 <div><p>https://www.pranavv.site</p></div>
-<div><p>https://github.com/InfinityX-Git</p></div>
 </div>
 
 <details>
