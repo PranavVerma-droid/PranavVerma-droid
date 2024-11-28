@@ -54,11 +54,7 @@ I am a Student and I am currently working on software more than hardware. I am i
 <!--START_SECTION:waka-->
   <br> My Websites (Learn More):
   - https://www.pranavv.site (Souce Code [Here](https://github.com/PranavVerma-droid/Portfolio))
-  
-  
-  Codecademy Userame: [@pranav_v234](https://www.codecademy.com/profiles/pranav_v234) <br>
-  W3Schools Username: [@pranavverma234](https://www.w3profile.com/Envitixy) <br>
-  Hackerrank Username: [@pranav90](https://www.hackerrank.com/profile/pranav90) <br>
+
   
   
   Reach out (Email): pranav@verma.net.in <br>
@@ -68,4 +64,3 @@ I am a Student and I am currently working on software more than hardware. I am i
   Instagram: [@pranavv.403](https://instagram.com/pranavv.403)
   
   Hugging Face: [@PranavVerma-droid](https://huggingface.co/PranavVerma-droid) <br>
-  MonkeyType: [Envitixy](https://monkeytype.com/profile/Envitixy)
