@@ -3,7 +3,7 @@
 <a href="https://www.pranavv.site">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=PranavVerma-droid&column=10&theme=gruvbox&no-frame=true"/>
 </a>
-<div><p>https://www.pranavv.site</p></div>
+<div><p>https://www.pranavv.co.in</p></div>
 </div>
 
 <details>
@@ -53,7 +53,7 @@ I am a Student and I am currently working on software more than hardware. I am i
 
 <!--START_SECTION:waka-->
   <br> My Websites (Learn More):
-  - https://www.pranavv.site (Souce Code [Here](https://github.com/PranavVerma-droid/Portfolio))
+  - https://www.pranavv.co.in (Souce Code [Here](https://github.com/PranavVerma-droid/Portfolio))
 
   
   
